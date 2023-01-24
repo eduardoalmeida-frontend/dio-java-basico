@@ -2,14 +2,10 @@ package edu.eduardo.estudos.operadores;
 
 public class Operadores {
     public static void main(String[] args) {
-        int numero = 5;
+        boolean variavel = true;
 
-        //x repeticao
-        ;
-        // numero = numero + 1;
-
-        System.out.println(numero --);
-
-        System.out.println(numero);
+        variavel = !variavel;
+        
+        System.out.println(variavel);
     }
 }
