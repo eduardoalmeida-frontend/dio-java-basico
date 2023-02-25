@@ -1,13 +1,15 @@
 package edu.eduardo.estudos.metodos;
 
 public class SmartTv {
+
+    // variáveis de classe (globais)
     boolean ligada = false;
     int canal = 1;
     int volume = 25;
 
-    
     public void mudarCanal(int novoCanal) {
         canal = novoCanal;
+        // novoCanal: variável de método (local)
     }
 
     public void aumentarCanal() {
