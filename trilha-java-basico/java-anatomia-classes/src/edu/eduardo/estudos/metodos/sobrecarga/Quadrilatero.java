@@ -1,4 +1,4 @@
-package edu.eduardo.estudos.sobrecarga;
+package edu.eduardo.estudos.metodos.sobrecarga;
 
 public class Quadrilatero {
     
