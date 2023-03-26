@@ -1,4 +1,4 @@
-package edu.eduardo.estudos.estruturas_de_repeticao_e_arrays.arrays;
+package edu.eduardo.estudos.arrays;
 
 public class Ex1_OrdemInversa {
     public static void main(String[] args) {

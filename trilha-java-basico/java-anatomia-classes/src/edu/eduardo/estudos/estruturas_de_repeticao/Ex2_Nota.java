@@ -1,4 +1,4 @@
-package edu.eduardo.estudos.estruturas_de_repeticao_e_arrays;
+package edu.eduardo.estudos.estruturas_de_repeticao;
 
 import java.util.Scanner;
 
